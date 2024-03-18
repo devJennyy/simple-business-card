@@ -10,7 +10,7 @@ function App() {
       <div className="flex md:flex-row md:justify-between flex-col justify-between items-center w-full h-full ">
         <div className="md:h-full md:w-1/2 h-1/2 object-cover">
           <img
-            src="public/img/power.png"
+            src="/img/power.png"
             className="w-full h-full object-cover"
           />
         </div>
